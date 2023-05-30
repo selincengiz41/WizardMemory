@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298465149576",
+    "project_id": "wizardmemory-e1092",
+    "storage_bucket": "wizardmemory-e1092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298465149576:android:365c75109624a9d076953d",
+        "android_client_info": {
+          "package_name": "com.selincengiz.wizardmemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298465149576-irg7kank41e5j6jqeq1uskfo639os3e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9z_8OOlgb-hkwq6Pzu8NFgpFqWD-3shM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298465149576-irg7kank41e5j6jqeq1uskfo639os3e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
